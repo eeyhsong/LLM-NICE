@@ -7,7 +7,7 @@ use text decriptions of the images or objects to refine the image features, furt
 updating ...
 
 ## Abstract
-![Network Architecture](/draw_pic/Fig1.png)
+![Network Architecture](./draw_pic/Fig1.png)
 - Introduce a contrastive learning framework for EEG-based image recognition by aligning EEG and image representations, yielding remarkable zero-shot performance on extensive EEG datasets.
 - Incorporate language guidance into the training stage to capture the core semantic information contained within EEG signals. The performance is significantly enhanced with the help of LLMs.
 - Demonstrate the biological plausibility of decoding images from EEG through comparative experiments on EEG and MEG datasets, resolving temporal, spatial, spectral, and semantic aspects.
